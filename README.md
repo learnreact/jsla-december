@@ -24,6 +24,6 @@
 
 ## Resources
 * A review of what we learned - [react.holiday](https://react.holiday)
-* learnreact.com
-* reactcheatsheet.com
-* reactpatterns.com
+* https://learnreact.com
+* https://reactcheatsheet.com
+* https://reactpatterns.com
